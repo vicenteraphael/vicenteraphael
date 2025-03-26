@@ -5,7 +5,7 @@ I am Raphael Vicente de Oliveira and I'm 16 years old.<br>
 I've always been passionate about Mathematics and those kind of things that make us fry our neurons.<br>
 
 👩🏻‍🎓 Studying Systems Development at the [Federal Institute of São Paulo - São Paulo Campus](https://spo.ifsp.edu.br) (2024-2027)<br>
-🥉 Bronze Medal: 18th OBMEP [(Brazilian Mathematics Olympiad for Public and Private School)](http://www.obmep.org.br/)<br>
+🥉 Bronze Medal: 18th OBMEP [(Brazilian Mathematics Olympiad for Public and Private Schools)](http://www.obmep.org.br/)<br>
 🌱 I’m currently learning competitive programming and Olympic Mathematics <br>
 🎨 I enjoy music and poetry<br>
 ⚡ Fun fact: Einstein was never awarded for the theory of relativity (not fun)<br>
