@@ -1,5 +1,5 @@
 # 👋 Hello, everyone!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-vicente-6967a9357/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vicenteraphaeloliveira@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenteraphael) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vicenteraphaeloliveira@gmail.com) 
 
 I am Raphael Vicente de Oliveira and I'm 16 years old.<br>
 I've always been passionate about Mathematics and those kind of things that make us fry our neurons.<br>
@@ -17,7 +17,7 @@ I've always been passionate about Mathematics and those kind of things that make
 🧮 [Calculators in Python](https://github.com/vicenteraphael/Python)<br>
 🎼 [Team Rocket Partituras (Sheet Music website)](https://github.com/TeamRocket69/site)<br>
 👽 [Space Brillig (game in Python)](https://github.com/Space-Brillig/game)<br>
-🐝 [Beercrowd (solved Beecrowd exercises repository)](https://github.com/Place-code/BeerCrowd)<br>
+🐝 [BeerCrowd (solved Beecrowd exercises repository)](https://github.com/Place-code/BeerCrowd)<br>
 
 ## 💻 Tech Stack
 
@@ -28,7 +28,9 @@ I've always been passionate about Mathematics and those kind of things that make
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
